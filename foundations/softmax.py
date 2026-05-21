@@ -1,6 +1,7 @@
+#qn: https://neetcode.io/problems/softmax/question
+
 import numpy as np
 from numpy.typing import NDArray
-
 
 class Solution:
 
